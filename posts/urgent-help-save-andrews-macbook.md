@@ -1,7 +1,7 @@
 ---
-title: Yet another Example blog post
+title: Urgent Help - Save Andrew's Macbook
 summary: A post showcasing all styling for article elements
-date: 2018-11-22
+date: 2018-11-26
 tags:
   - CSS
 ---

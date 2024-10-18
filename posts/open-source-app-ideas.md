@@ -1,7 +1,7 @@
 ---
-title: Example blog post with longer title
+title: Open Source App Ideas
 summary: A post showcasing all styling for article elements
-date: 2018-11-26
+date: 2018-11-22
 tags:
   - CSS
 ---

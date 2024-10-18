@@ -1,7 +1,7 @@
 ---
-title: Default example blog post
+title: Content Projects
 summary: A post showcasing all styling for article elements
-date: 2018-11-28
+date: 2018-11-25
 tags:
   - CSS
 ---
