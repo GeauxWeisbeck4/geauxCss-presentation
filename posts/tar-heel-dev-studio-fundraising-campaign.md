@@ -1,10 +1,13 @@
 ---
-title: This is also an article post
-summary: A post showcasing all styling for article elements
-date: 2018-11-22
+title: Tar Heel Dev Studio Fundraising Campaign
+summary: This post explains why this fundraising campaign is being launched and how you can help out! I truly appreciate any and everything you can do.
+date: 2024-10-18
 tags:
-  - CSS
+  - News
+  - Fundraising
 ---
+
+After spending the last couple weeks building out my website and starting to get my marketing efforts going again, it began to dawn on my why I kept getting stalled while getting this brand going previously - I couldn't afford the expenses necessary to operate and scale according to my business plan.
 
 ## Bar graph
 

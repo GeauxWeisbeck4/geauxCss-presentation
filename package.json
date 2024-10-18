@@ -1,26 +1,25 @@
 {
-  "name": "Data",
+  "name": "tarheeldevstudio-fundraising",
   "version": "1.0.0",
-  "description": "A custom eleventy template with a focus on data and reporting.",
+  "description": "A website to help fundraise for the needs of Tar Heel Dev Studio.",
   "scripts": {
-    "build": "npx eleventy",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy"
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bradleytaunt/data-11ty"
+    "url": "https://github.com/geauxweisbeck4/tarheeldevstudio-fundraising"
   },
   "author": {
-    "name": "Bradley Taunt",
-    "email": "bradleytaunt@gmail.com",
-    "url": "https://www.bradleytaunt.com/"
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://www.andrewweisbeck.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bradleytaunt/data-11ty/issues"
+    "url": "https://github.com/geauxweisbeck4/tarheeldevstudio-fundraising/issues"
   },
-  "homepage": "https://data11ty.netlify.com/",
+  "homepage": "https://fundraising.tarheeldevstudio.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.5.0",
     "luxon": "^1.0.0",

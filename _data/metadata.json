@@ -1,10 +1,10 @@
 {
-  "title": "Data 11ty Theme",
-  "url": "https://data11ty.netlify.com/",
-  "siteUrl": "https://data11ty.netlify.com/",
+  "title": "Tar Heel Dev Studio Fundraising",
+  "url": "https://tarheeldevstudio-fundraising.netlify.app/",
+  "siteUrl": "https://tarheeldevstudio-fundraising.netlify.app/",
   "author": {
-    "name": "Bradley Taunt",
-    "email": "bradleytaunt@gmail.com",
-    "github": "https://github.com/bradleytaunt"
+    "name": "Andrew Weisbeck",
+    "email": "tarheeldevstudiollc@proton.me",
+    "github": "https://github.com/geauxweisbeck4"
   }
 }

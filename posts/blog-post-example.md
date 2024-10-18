@@ -1,313 +1,41 @@
 ---
-title: Simple example blog post
-summary: A post showcasing all styling for article elements
-date: 2018-11-23
+title: Urgent Need - Save My Laptop!
+summary: This urgent need snuck up on me and I don't really have a lot of good options here - help me get my Macbook baack.
+date: 2024-10-18
 tags:
-  - CSS
+  - Urgent
+  - Fundraising
 ---
 
-## Bar graph
+## URGENT - Help me get my laptop out of pawn shop
 
-Here is an example of a chart:
+I know what you are thinking and what people will say - why would you pawn your laptop? Save your breath though because I have already beat myself down on this one. To understand the reason why I pawned it, I have to explain the situation that I was in.
 
-<canvas id="myChart"></canvas>
-<script>
-  var ctx = document.getElementById("myChart").getContext('2d');
-  var myChart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-          labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
-          datasets: [{
-              label: '# of Votes',
-              data: [12, 19, 3, 5, 2, 3],
-              backgroundColor: [
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(54, 162, 235, 0.2)',
-                  'rgba(255, 206, 86, 0.2)',
-                  'rgba(75, 192, 192, 0.2)',
-                  'rgba(153, 102, 255, 0.2)',
-                  'rgba(255, 159, 64, 0.2)'
-              ],
-              borderColor: [
-                  'rgba(255,99,132,1)',
-                  'rgba(54, 162, 235, 1)',
-                  'rgba(255, 206, 86, 1)',
-                  'rgba(75, 192, 192, 1)',
-                  'rgba(153, 102, 255, 1)',
-                  'rgba(255, 159, 64, 1)'
-              ],
-              borderWidth: 1
-          }]
-      },
-      options: {
-          scales: {
-              yAxes: [{
-                  ticks: {
-                      beginAtZero:true
-                  }
-              }]
-          }
-      }
-  });
-</script>
+## Unhoused and Looking for Work
 
-## Line graph
+My fiance and I have been unhoused now for almost two years. I don't want to get too much into it because I don't want it to be how I am seen as an entrepreneur or a person and I don't expect nor want you to feel sorry for me. Empathy, kindness, and respect are all acceptable, but I don't want sympathy for my situation. It is what it is and it has been extremely challenging, but I really think being homeless has made me a better person and has motivated me to work my ass off lately.
 
-Here is an example of a chart:
+I also want to be clear that I am not sitting here trying to beg for money. I already had to do that to survive for a few months and it really sucked. A few important choices allowed me to focus on other things and I now spend my time working on projects, building my business, applying for jobs, seeking new clients, and learning everyday to become the best developer I can be.
 
-<canvas id="line-chart"></canvas>
-<script>
-  new Chart(document.getElementById("line-chart"), {
-  type: 'line',
-  data: {
-    labels: [1500,1600,1700,1750,1800,1850,1900,1950,1999,2050],
-    datasets: [{
-        data: [86,114,106,106,107,111,133,221,783,2478],
-        label: "Africa",
-        borderColor: "#3e95cd",
-        fill: false
-      }, {
-        data: [282,350,411,502,635,809,947,1402,3700,5267],
-        label: "Asia",
-        borderColor: "#8e5ea2",
-        fill: false
-      }, {
-        data: [168,170,178,190,203,276,408,547,675,734],
-        label: "Europe",
-        borderColor: "#3cba9f",
-        fill: false
-      }, {
-        data: [40,20,10,16,24,38,74,167,508,784],
-        label: "Latin America",
-        borderColor: "#e8c3b9",
-        fill: false
-      }, {
-        data: [6,3,2,2,7,26,82,172,312,433],
-        label: "North America",
-        borderColor: "#c45850",
-        fill: false
-      }
-    ]
-  },
-  options: {
-    title: {
-      display: true,
-      text: 'World population per region (in millions)'
-    }
-  }
-});
-</script>
+I also did have a job from May through August of this year at Walmart. The pay wasn't going to get us into housing and I didn't get treated very well because of my living situation. It's also worth mentioning that my job had me loading stuff into people's cars all day in extremely hot and humid working conditions. After working 8 hours during the hottest part of the day (1:30 pm - 10), I would have to attempt to sleep in our tent and it really didn't cool off at all during the night, so I usually laid awake sweating all night until the sun would come up.
 
-## Pie Chart
+While I was initially enthusiastic about having a job and purpose again after a long period of unemployment, I quickly became depressed, physically exhausted, and mentally drained from dealing with how I was treated by Walmart. All the money I made went to feeding two people and paying for a hotel room a couple nights a week to get out of the extreme heat for a bit. My fiance could tell that working at Walmart was taking a big toll on me and talked to me about quitting and focusing my developer career.
 
-Here is an example of a chart:
+## Learning, Applying to Jobs, and Tar Heel Dev Studio
 
-<canvas id="pie-chart"></canvas>
-<script>
-  new Chart(document.getElementById("pie-chart"), {
-    type: 'pie',
-    data: {
-      labels: ["Africa", "Asia", "Europe", "Latin America", "North America"],
-      datasets: [{
-        label: "Population (millions)",
-        backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f","#e8c3b9","#c45850"],
-        data: [2478,5267,734,784,433]
-      }]
-    },
-    options: {
-      title: {
-        display: true,
-        text: 'Predicted world population (millions) in 2050'
-      }
-    }
-  });
-</script>
+Now I have been learning programming in one form or another since graduating college in 2014. But I really started learning full-stack development in 2020 and got my first tech oriented role at a cybersecurity company in 2021. After I lost that job in 2021, I really got serious about learning and switching careers to become a full-stack developer.
 
-## Radar Chart
+2022 was difficult and I had maybe close to 30 interviews for developer jobs and it really shook my confidence. I finally had an interview in November 2022 and I impressed a company enough to want to hire me - there was a problem though. I lived in Raleigh, NC with no car and the job was all the way out in a forest somewhere near Durham, NC. I couldn't take the job and it has taken me a while to get back into interviewing for jobs due to being homeless.
 
-Here is an example of a chart:
+Now I technically started Tar Heel Dev Studio in 2021, but I never really marketed it much even though I had a website and everything. I did most of my freelance work as just good ol' me and not as the Tar Heel Dev Studio brand. I've always had the brand in the back of my mind and never gave up on the brand. That brings us to the last few months.
 
-<canvas id="radar-chart"></canvas>
-<script>
-  new Chart(document.getElementById("radar-chart"), {
-    type: 'radar',
-    data: {
-      labels: ["Africa", "Asia", "Europe", "Latin America", "North America"],
-      datasets: [
-        {
-          label: "1950",
-          fill: true,
-          backgroundColor: "rgba(179,181,198,0.2)",
-          borderColor: "rgba(179,181,198,1)",
-          pointBorderColor: "#fff",
-          pointBackgroundColor: "rgba(179,181,198,1)",
-          data: [8.77,55.61,21.69,6.62,6.82]
-        }, {
-          label: "2050",
-          fill: true,
-          backgroundColor: "rgba(255,99,132,0.2)",
-          borderColor: "rgba(255,99,132,1)",
-          pointBorderColor: "#fff",
-          pointBackgroundColor: "rgba(255,99,132,1)",
-          pointBorderColor: "#fff",
-          data: [25.48,54.16,7.61,8.06,4.45]
-        }
-      ]
-    },
-    options: {
-      title: {
-        display: true,
-        text: 'Distribution in % of world population'
-      }
-    }
-  });
-</script>
+About a month ago, I had been in a cycle of just non-stop studying for coding interviews and applying for jobs. I wasn't building any projects that would make me money, mainly just projects that helped me grow my skills as a developer. I credit the lack of bills, low cost of living, and the amount of free time I've had to really taking a huge leap forward as a developer. I feel on top of my game right now and it honestly has been awesome to get to learn all day every day.
 
-Paragraphs are separated by a blank line.
+But as somebody who studied for a master's in economics that that I never have been able to complete, I understand that there is an opportunity cost for every decision that I make. The opportunity cost for learning so much was missing out on money that could have been made. My fiance has had to continue to panhandle while we both continue to look for work and neither of us like that she still has to do that. I am still applying for jobs and waiting on that process takes time, so I decided that something had to be done.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+That b
 
-  * this one
-  * that one
-  * the other one
+So yes, I am still currently trying to figure out my living situation and that would be my priority besides one crucial fact - my laptop pawn shop payment is due today and if I don't pay it, they might take it to sell it. Now I am going to try and extend
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+## Bad Weather and Unhoused
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
-
-
-
-An h2 header
-------------
-
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-
-
-### An h3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-Name           Size  Material      Color
-------------- -----  ------------  ------------
-All Business      9  leather       brown
-Roundabout       10  hemp canvas   natural
-Cinderella       11  glass         transparent
-
-Table: Shoes sizes, materials, and colors.
-
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
-
---------  -----------------------
-Keyword   Text
---------  -----------------------
-red       Sunsets, apples, and
-          other red or reddish
-          things.
-
-green     Leaves, grass, frogs
-          and other things it's
-          not easy being.
---------  -----------------------
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-
-oranges
-  : Citrus!
-
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](/static/images/example-image.jpg "An exemplary image")
