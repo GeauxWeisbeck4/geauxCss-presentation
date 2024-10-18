@@ -1,29 +1,31 @@
 ---
-title: Urgent Need - Save My Laptop!
-summary: This urgent need snuck up on me and I don't really have a lot of good options here - help me get my Macbook baack.
+title: About the Fundraising Campaign
+summary: This post explains why I am launching the Tar Heel Dev Studio fundraising campaign to raise money.
 date: 2024-10-18
 tags:
-  - Urgent
+  - News
   - Fundraising
 ---
 
-## URGENT - Help me get my laptop out of pawn shop
+## Why Start a Fundraising Campaign?
 
-I know what you are thinking and what people will say - why would you pawn your laptop? Save your breath though because I have already beat myself down on this one. To understand the reason why I pawned it, I have to explain the situation that I was in.
+My fiance and I have been unhoused now for almost two years. I don't want to get too much into it for a few different reasons, but primarily because I don't want people to help out of sympathy, I want people to help out because they believe in me and my skill set. I started this fundraising campaign as a way to help others in need - myself, the open-source community, and the non-profits and small businesses I serve.
 
-## Unhoused and Looking for Work
+This fundraising campaign is going to rely on individuals who are empathetic, kind, and want to help fund something that could have a big impact on not only my life, but the lives of many other people who are involved in Tar Heel Dev Studio projects. The thing I promise to provide throughout the entire process is transparency, honesty, and dedication to the goals I have for this organization and creating a better future for all stakeholders.
 
-My fiance and I have been unhoused now for almost two years. I don't want to get too much into it because I don't want it to be how I am seen as an entrepreneur or a person and I don't expect nor want you to feel sorry for me. Empathy, kindness, and respect are all acceptable, but I don't want sympathy for my situation. It is what it is and it has been extremely challenging, but I really think being homeless has made me a better person and has motivated me to work my ass off lately.
-
-I also want to be clear that I am not sitting here trying to beg for money. I already had to do that to survive for a few months and it really sucked. A few important choices allowed me to focus on other things and I now spend my time working on projects, building my business, applying for jobs, seeking new clients, and learning everyday to become the best developer I can be.
+I also want to be clear that I am not sitting here trying to beg for money. I already had to do that to survive for a few months and it really sucked. A few important choices allowed me to focus on other things and I now spend my time working on projects, building my business, applying for jobs, seeking new clients, and learning everyday how to become the best developer I can be.
 
 I also did have a job from May through August of this year at Walmart. The pay wasn't going to get us into housing and I didn't get treated very well because of my living situation. It's also worth mentioning that my job had me loading stuff into people's cars all day in extremely hot and humid working conditions. After working 8 hours during the hottest part of the day (1:30 pm - 10), I would have to attempt to sleep in our tent and it really didn't cool off at all during the night, so I usually laid awake sweating all night until the sun would come up.
 
 While I was initially enthusiastic about having a job and purpose again after a long period of unemployment, I quickly became depressed, physically exhausted, and mentally drained from dealing with how I was treated by Walmart. All the money I made went to feeding two people and paying for a hotel room a couple nights a week to get out of the extreme heat for a bit. My fiance could tell that working at Walmart was taking a big toll on me and talked to me about quitting and focusing my developer career.
 
+I did that at the beginning of August and it has proved to be a good decision in terms of getting back on track career-wise as well as having the best opportunity to make enough money to change my current living-situation. Like anything else in life, there is a downside and that has been a lack of income due to not making money like I was at Walmart. I wouldn't change my decision, but I think that my approach has made it very hard to survive.
+
+I'll talk about everything that has happened to get to this point, how I intend to to use donations to help Tar Heel Dev Studio, and what the impact your donations will have for myself and others involved.
+
 ## Learning, Applying to Jobs, and Tar Heel Dev Studio
 
-Now I have been learning programming in one form or another since graduating college in 2014. But I really started learning full-stack development in 2020 and got my first tech oriented role at a cybersecurity company in 2021. After I lost that job in 2021, I really got serious about learning and switching careers to become a full-stack developer.
+I have been learning programming in one form or another since graduating college in 2014. But I really started learning full-stack development in 2020 and got my first tech oriented role at a cybersecurity company in 2021. After I lost that job in 2021, I really got serious about learning and switching careers to become a full-stack developer.
 
 2022 was difficult and I had maybe close to 30 interviews for developer jobs and it really shook my confidence. I finally had an interview in November 2022 and I impressed a company enough to want to hire me - there was a problem though. I lived in Raleigh, NC with no car and the job was all the way out in a forest somewhere near Durham, NC. I couldn't take the job and it has taken me a while to get back into interviewing for jobs due to being homeless.
 

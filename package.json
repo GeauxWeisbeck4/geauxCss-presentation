@@ -22,9 +22,11 @@
   "homepage": "https://fundraising.tarheeldevstudio.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.5.0",
+    "autoprefixer": "^10.4.20",
     "luxon": "^1.0.0",
     "markdown-it": "^8.4.1",
     "markdown-it-anchor": "^4.0.0",
+    "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14"
   },
   "dependencies": {

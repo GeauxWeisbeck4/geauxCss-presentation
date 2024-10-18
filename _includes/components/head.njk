@@ -9,6 +9,7 @@
   {% endif %}
   {% set css %}
     {% include "assets/css/inline.css" %}
+    {% include "assets/css/tailwind.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {# An optional javascript pipeline; outputs minified JS into <head>

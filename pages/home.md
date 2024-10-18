@@ -9,7 +9,6 @@ tags:
   - nav
 ---
 
-<h1>Tar Heel Dev Studio Fundraising Site</h1>
+## Tar Heel Dev Studio Fundraising Site
 
-Welcome to the Tar Heel Dev Studio Fundraising website. Donate to support our mission of providing affordable digital services to small businesses and non-profits.</i>
-
+Welcome to the Tar Heel Dev Studio Fundraising website. Donate to support our mission of providing affordable digital services to small businesses and non-profits.
